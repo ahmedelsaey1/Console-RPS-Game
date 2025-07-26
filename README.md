@@ -136,4 +136,4 @@ Special thanks to the open-source community and everyone who contributed to maki
 
 Ahmed Elsaey - [linkedin](https://www.linkedin.com/in/ahmed-elsaey1) - a7md.elsaey@gmail.com
 
-- [Project Link](https://github.com/ahmedelsaey1/CLI-Banking-System )
+- [Project Link](https://github.com/ahmedelsaey1/Console-RPS-Game )
